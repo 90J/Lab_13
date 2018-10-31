@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\Lab_13\Lab_13\bin\Debug\Lab_13.exe.config
+C:\Users\jstiles\source\repos\Lab_13\Lab_13\bin\Debug\Lab_13.exe
+C:\Users\jstiles\source\repos\Lab_13\Lab_13\bin\Debug\Lab_13.pdb
+C:\Users\jstiles\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.exe
+C:\Users\jstiles\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.pdb
